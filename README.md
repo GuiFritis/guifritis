@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guifritis&layout=compact&theme=tokyonight)](https://github.com/guifritis/github-readme-stats)
 ![ContributionCharts](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guifritis&theme=tokyonight)
 ![WorkTimeChart](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=guifritis&theme=tokyonight&utcOffset=-3)
-)
